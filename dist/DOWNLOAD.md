@@ -2,6 +2,14 @@
 
 For R K SYNTHETICS.
 
+## Complete desktop + Android + website package
+
+[Download RK-RATE-ALL-IN-ONE.zip](https://github.com/somenathpanda29-sketch/spview/raw/refs/heads/main/dist/RK-RATE-ALL-IN-ONE.zip)
+
+Extract the full ZIP, read `START-HERE.txt`, then run `desktop/START-RK-RATE.bat` on Windows with Python 3.12+ installed. This is a desktop browser launcher, not a standalone EXE. The ZIP also includes the APK, website source, BUSY connector, tests and hosting instructions. No business data or existing passwords are included. Windows/physical Android execution and live BUSY compatibility still require local validation.
+
+## Android only
+
 - [Download APK](https://github.com/somenathpanda29-sketch/spview/raw/refs/heads/main/dist/RK-RATE-test.apk)
 - [Download ZIP containing APK](https://github.com/somenathpanda29-sketch/spview/raw/refs/heads/main/dist/RK-RATE-Android.zip)
 
